@@ -7,10 +7,10 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1220,35:111827,70:1E293B,100:0F172A&text=Shankar%20Sai%20N&fontColor=E5E7EB&fontAlignY=36&fontSize=48&desc=AI%20Engineer%20%E2%80%A2%20Researcher%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=57&animation=fadeIn" alt="AI Security Command Center Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1220,35:111827,70:1E293B,100:0F172A&text=Shankar%20Sai%20N&fontColor=E5E7EB&fontAlignY=36&fontSize=48&desc=AI%20Engineer%20%7C%20Researcher%20%7C%20Open%20Source%20Enthusiast&descAlignY=60" alt="Hero Banner" />
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=980&lines=Engineering+AI+That+Solves+Real+Problems;B.Tech+CSE+(Data+Science)+%7C+GM+University+(2028);AI+%7C+ML+%7C+Deep+Learning+%7C+LLMs+%7C+Agentic+AI;Cybersecurity-Aware+Intelligent+Systems+Builder" alt="Typing Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=980&lines=Engineering+AI+That+Solves+Real+Problems;Building+Secure%2C+Intelligent%2C+and+Useful+Systems;AI+Engineer+%7C+Researcher+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
 
 <!-- Profile Visual Reference -->
 <img src="https://github.com/user-attachments/assets/46aeb30e-320d-44cc-895e-4ef5a0a26691" width="260" alt="Shankar Sai professional profile visual" />
