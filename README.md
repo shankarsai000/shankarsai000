@@ -1,234 +1,447 @@
-<!-- =========================================
-     Shankar Sai N - GitHub Profile README (V1)
-     Theme: AI Security Command Center
-     Designed for long-term portfolio growth
-========================================= -->
+<!-- ===========================================================
+   ███████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗ █████╗ ██████╗
+   GitHub Profile README
+   Author : Shankar Sai N
+   Theme  : AI Engineering • Research • Cybersecurity
+   Version: 2.0
+=========================================================== -->
 
 <div align="center">
 
-<!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1220,35:111827,70:1E293B,100:0F172A&text=Shankar%20Sai%20N&fontColor=E5E7EB&fontAlignY=36&fontSize=48&desc=AI%20Engineer" alt="Hero Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1220,50:111827,100:0F172A&text=Shankar%20Sai%20N&fontSize=48&fontColor=E5E7EB&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20•%20Researcher%20•%20Datascince&descAlignY=56" width="100%" />
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=980&lines=Engineering+AI+That+Solves+Real+Problems;Building+Intelligent+Systems+with+Purpose" alt="Animated Header" />
+<br>
 
-<!-- Profile Visual Reference -->
-<img src="https://github.com/user-attachments/assets/46aeb30e-320d-44cc-895e-4ef5a0a26691" width="260" alt="Shankar Sai professional profile visual" />
+<img
+src="https://raw.githubusercontent.com/shankarsai000/shankarsai000/main/WhatsApp%20Image%202026-07-22%20at%2012.32.23%20PM.jpeg"
+width="280"
+alt="Shankar Sai N"
+/>
 
-<!-- Professional Intro -->
-<p>
-  <img src="https://img.shields.io/badge/Location-Davangere%2C%20Karnataka%2C%20India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" alt="Location" />
-  <img src="https://img.shields.io/badge/Graduation-2028-111827?style=for-the-badge&logo=academia&logoColor=93c5fd" alt="Graduation" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Engineering%20%26%20Research-0b1220?style=for-the-badge&logo=openai&logoColor=22d3ee" alt="Focus" />
-</p>
+<br><br>
 
-</div>
+# 👋 Hi, I'm **Shankar Sai N**
 
----
+### AI Engineer • Researcher • Hackathon Winner
 
-<!-- About Me -->
-## 🧠 About Me
-I am **Shankar Sai N**, a **B.Tech CSE (Data Science)** student and aspiring **AI Engineer** who enjoys building intelligent software for real-world impact.
-
-I believe in **learning by building**—through projects, hackathons, research, and open-source collaboration.
-
-- 🎯 Long-term goal: become a world-class AI Engineer contributing to impactful research and open-source ecosystems
-- 🔬 Core interests: AI, ML, Deep Learning, LLMs, Agentic AI, AI Automation, Cybersecurity, and Software Engineering
-- 🌍 Learning ecosystem: Google Skills, Anthropic Academy, Kaggle, GitHub, and global open communities
-
----
-
-<!-- Current Focus -->
-## 🎯 Current Focus
-- Building real-world AI applications
-- Learning and experimenting with LLM workflows
-- Agentic AI systems and automation
-- Machine Learning and Deep Learning
-- AI research and paper writing
-- Open-source contributions
-- Hackathon-driven rapid prototyping
-- n8n automation, Docker, and GitHub Actions
-
----
-
-<!-- Tech Stack -->
-## ⚙️ Tech Stack
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=python,c,js,html,css" alt="Languages" />
-
-### AI & ML
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" alt="AI and ML" />
+### Building Intelligent Systems with AI, Cybersecurity & Automation
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=60A5FA" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=A78BFA" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=F59E0B" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Google%20Colab-111827?style=for-the-badge&logo=googlecolab&logoColor=FBBF24" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle&logoColor=38BDF8" alt="Kaggle" />
+
+<img src="https://img.shields.io/badge/B.Tech-CSE(Data%20Science)-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Graduation-2028-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Location-Karnataka,%20India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=38bdf8"/>
+
 </p>
 
-### Web & Backend
-<img src="https://skillicons.dev/icons?i=react,vite,fastapi,flask" alt="Web and Backend" />
-
-### DevOps
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux" alt="DevOps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Engineering+AI+That+Solves+Real+Problems;Building+Autonomous+AI+Systems;Research+Driven+Development;Hackathons+%7C+Open+Source+%7C+Innovation" />
 
 </div>
 
 ---
 
-<!-- AI Stack -->
-## 🤖 AI Stack
+# 🚀 About Me
+
+I'm a **B.Tech Computer Science (Data Science)** student passionate about building **real-world AI systems**.
+
+Rather than simply learning algorithms, I enjoy engineering complete solutions that combine
+
+- Artificial Intelligence
+- Machine Learning
+- Agentic AI
+- LLM Applications
+- Cybersecurity
+- Intelligent Automation
+- Software Engineering
+
+My learning philosophy is simple:
+
+> **Build → Break → Improve → Repeat**
+
+Every project I build teaches me something new about engineering scalable and intelligent software.
+
+My long-term goal is to contribute to world-class AI research while building products that positively impact millions of people.
+
+---
+
+# 🎯 Current Focus
+
+- 🤖 Agentic AI Systems
+- 🧠 Large Language Models
+- 🔬 AI Research
+- 🛡 AI Security
+- ⚙️ AI Automation
+- 📊 Machine Learning
+- ☁️ Cloud Native AI
+- 🐳 Docker
+- 🔄 GitHub Actions
+- 🌍 Open Source
+
+---
+
+# ⚡ Tech Stack
+
+## 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,java,js,html,css" />
+
+</p>
+
+---
+
+## 🤖 AI & Machine Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter"/>
+
+<img src="https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle"/>
+
+</p>
+
+---
+
+## 🌐 Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,fastapi,flask,vite,nodejs" />
+
+</p>
+
+---
+
+## 🐳 DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions" />
+
+</p>
+
+---
+
+# 🧠 AI Expertise
+
+✔ Machine Learning
+
+✔ Deep Learning
+
+✔ Computer Vision
+
+✔ NLP
+
+✔ LLM Applications
+
+✔ Prompt Engineering
+
+✔ Multi-Agent Systems
+
+✔ AI Security
+
+✔ AI Automation
+
+✔ Research Engineering
+
+---
+
+# 📈 GitHub Dashboard
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/LLMs-Experimentation%20%26%20Application-0f172a?style=for-the-badge&logo=openai&logoColor=38bdf8" alt="LLM Stack" />
-<img src="https://img.shields.io/badge/Agentic%20AI-Workflow%20Design-0f172a?style=for-the-badge&logo=googleassistant&logoColor=22d3ee" alt="Agentic AI" />
-<img src="https://img.shields.io/badge/AI%20Security-Threat%20Detection%20Mindset-0f172a?style=for-the-badge&logo=cloudflare&logoColor=fbbf24" alt="AI Security" />
-<img src="https://img.shields.io/badge/Automation-n8n%20%26%20Make-0f172a?style=for-the-badge&logo=n8n&logoColor=ef4444" alt="Automation" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shankarsai000&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankarsai000&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shankarsai000&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shankarsai000&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-<!-- Developer Tools -->
-## 🧰 Developer Tools
+# 🏆 Highlights
+
+| Achievement | Status |
+|-------------|--------|
+| 🥉 IIT Delhi Hackathon | Winner |
+| 📄 ACT 2026 Research Paper | Accepted |
+| 🤖 AI Home Shield | Completed |
+| 🧠 AI Research | Active |
+| 🌍 Open Source | Growing |
+| 🚀 AI Projects | Continuously Building |
+
+---
+
+---
+
+
+
+---
+
+# ⭐ Flagship Projects
+
+## 🛡️ AI Home Shield
+
+An autonomous AI-powered cybersecurity platform designed for smart homes.
+
+### Key Features
+
+- 🤖 Multi-Agent AI Architecture
+- 🔍 Intelligent Threat Detection
+- 🔥 Automated Firewall Response
+- 🍯 Honeypot Integration
+- 📊 Real-time Monitoring Dashboard
+- 🌐 IoT Device Discovery
+- 🧠 ML-based Attack Classification
+- 📈 Live Threat Analytics
+
+**Tech Stack**
+
+Python • FastAPI • Streamlit • Scikit-Learn • Docker • CICIoT2023
+
+---
+
+## 🤖 Multi-Agent AI Researcher
+
+An intelligent research assistant built using multiple collaborating AI agents.
+
+### Features
+
+- Research Planning
+- Paper Summarization
+- Literature Review
+- Citation Generation
+- Knowledge Extraction
+- Multi-Agent Collaboration
+
+---
+
+## 📊 IoT Intrusion Detection System
+
+Machine Learning based intrusion detection trained on CICIoT2023.
+
+### Models
+
+- Random Forest
+- XGBoost
+- LightGBM
+- CatBoost
+- Ensemble Learning
+
+### Focus
+
+- High Accuracy
+- Low False Positives
+- Real-Time Detection
+- Explainable AI
+
+---
+
+## 🎓 Paradox VidyaBot
+
+AI-powered educational assistant.
+
+Features include
+
+- Student Assistance
+- Intelligent Chat
+- Learning Support
+- Knowledge Retrieval
+- Smart Recommendations
+
+---
+
+# 📄 Research
+
+## Published & Accepted Work
+
+### 📑 AI Home Shield
+
+**Conference**
+
+ACT 2026 International Conference
+
+**Status**
+
+✅ Accepted
+
+**Paper ID**
+
+ACT2026-517
+
+**Title**
+
+_AI Home Shield: An Agentic AI-Powered IoT Security Appliance with Autonomous Threat Detection, Deception Technologies, and Real-Time Firewall Response_
+
+---
+
+## Research Interests
+
+- Agentic AI
+- LLM Applications
+- AI Security
+- AI Governance
+- Multi-Agent Systems
+- Cybersecurity
+- Edge AI
+- Responsible AI
+
+---
+
+# 🏆 Hackathons
+
+| Competition | Result |
+|-------------|---------|
+| IIT Delhi Hackathon | 🥉 Winner |
+| Bangalore Hackathon | 🥇 Winner |
+| AI Innovation Challenges | Active Participant |
+| National Hackathons | Ongoing |
+
+---
+
+# 🌟 Achievements
+
+- 📄 First International Research Paper Accepted
+- 🥉 IIT Delhi Hackathon Winner
+- 🤖 Built Multiple End-to-End AI Systems
+- 🚀 Active Open Source Learner
+- 🔬 AI Research Enthusiast
+
+---
+
+# 📚 Continuous Learning
+
+I believe in learning through execution.
+
+Current learning areas include
+
+- Large Language Models
+- AI Agents
+- MLOps
+- Kubernetes
+- Cloud AI
+- AI Security
+- Research Engineering
+- Distributed Systems
+
+---
+
+# 🌍 Open Source Journey
+
+Current focus
+
+- AI Libraries
+- Security Tools
+- ML Frameworks
+- Research Projects
+- Documentation
+- Community Contributions
+
+Long-term goal
+
+Become an active contributor to major open-source AI ecosystems.
+
+---
+
+# 🎯 2026–2028 Roadmap
+
+## 2026
+
+- ✅ Publish Research
+- ✅ Win National Hackathons
+- 🔄 Build Production AI Projects
+- 🔄 Open Source Contributions
+
+---
+
+## 2027
+
+- GSoC
+- International Research
+- AI Internship
+- Cloud Certifications
+- Large Scale AI Systems
+
+---
+
+## 2028
+
+- Graduate with Strong Portfolio
+- Top AI Internship
+- MS Scholarship
+- AI Startup / Research Lab
+- Open Source Maintainer
+
+---
+
+# 💡 Philosophy
+
+> "Code can solve problems.
+>
+> Intelligence can solve complex problems.
+>
+> Artificial Intelligence should solve meaningful problems."
+
+---
+
+# 📬 Connect With Me
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20Tools-ChatGPT%20%7C%20Claude%20%7C%20Gemini%20%7C%20Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=22d3ee" alt="AI Tools" />
-<img src="https://img.shields.io/badge/Workflow-VS%20Code%20%7C%20Postman%20%7C%20Notion%20%7C%20Figma-111827?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8" alt="Workflow Tools" />
+<a href="mailto:slssaishankar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shankar-sai-n-b92729362">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shankarsai000">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
 ---
 
-<!-- GitHub Analytics Dashboard -->
-## 📊 GitHub Statistics
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shankarsai000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankarsai000&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🔥 GitHub Streak
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shankarsai000&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shankarsai000&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-## 🧪 Top Languages
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shankarsai000&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shankarsai000&theme=tokyonight" alt="Most Commit Language" />
-</div>
-
----
-
-<!-- Featured Projects -->
-## 🚀 Featured Projects
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shankarsai000&repo=IoT-IDS-Ensemble-CICIOT2023&theme=tokyonight&hide_border=true)](https://github.com/shankarsai000/IoT-IDS-Ensemble-CICIOT2023)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shankarsai000&repo=Multi-Agent-AI-Researcher-&theme=tokyonight&hide_border=true)](https://github.com/shankarsai000/Multi-Agent-AI-Researcher-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shankarsai000&repo=Paradox-vidyabot&theme=tokyonight&hide_border=true)](https://github.com/shankarsai000/Paradox-vidyabot)
-
-</div>
-
-<!-- Current Projects -->
-- 🛡️ **AI Home Shield**
-- 🤖 **LLM Projects**
-- 📊 **Machine Learning Projects**
-- ⚙️ **Automation Projects**
-- 🔬 **Research Projects**
-
----
-
-<!-- Research -->
-## 📄 Research
-- ✅ **Accepted Paper (ACT 2026 International Conference)**
-- **Title:** _AI Home Shield: An Agentic AI-Powered IoT Security Appliance with Autonomous Threat Detection, Deception Technologies, and Real-Time Firewall Response_
-- **Status:** Full Paper Accepted
-- **Paper ID:** ACT2026-517
-- **Timeline:** 25–26 June 2026, Hyderabad, India
-
----
-
-<!-- Hackathons -->
-## 🏆 Hackathons
-- 🥉 **IIT Delhi Hackathon** — 3rd Prize
-- 🥇 **Bangalore Hackathon** — Winner
-
----
-
-<!-- Achievements -->
-## 🌟 Achievements
-- First international research paper acceptance at ACT 2026
-- Recognized in multiple hackathon environments for rapid AI prototyping
-- Building a long-term AI security and research-oriented engineering portfolio
-
----
-
-<!-- Certifications -->
-## 📜 Certifications
-- [Google Skills Profile](https://www.skills.google/public_profiles/9597a5ff-6d62-40af-9093-cf883358afae)
-- [Credly Badges](https://www.credly.com/users/n-shankar-sai/badges/credly)
-- [All Certificates (Drive)](https://drive.google.com/drive/folders/1eGsWZsMLhYDdsQiZ3jWoj74DSJH206r5?usp=sharing)
-
----
-
-<!-- Learning Journey -->
-## 📚 Learning Journey
-I am continuously upgrading my engineering depth through:
-- Building projects with real constraints
-- Studying research papers and reproducing ideas
-- Participating in hackathons and open-source collaboration
-- Improving deployment, automation, and security thinking
-
----
-
-<!-- Open Source -->
-## 🌍 Open Source
-I am actively preparing for long-term open-source contributions focused on AI tooling, automation, and secure intelligent systems.
-
----
-
-<!-- Future Growth Placeholders (Requested) -->
-## 🧭 Growth Roadmap (Placeholders)
-> These sections are intentionally kept as placeholders for progressive updates.
-
-- ⭐ **Open Source Contributions** — _To be updated_
-- ⭐ **Publications** — _To be updated_
-- ⭐ **Blog** — _To be updated_
-- ⭐ **Speaking Sessions** — _To be updated_
-- ⭐ **Community Leadership** — _To be updated_
-- ⭐ **GSoC** — _To be updated_
-- ⭐ **Kaggle** — _To be updated_
-- ⭐ **Research Timeline** — _To be updated_
-
----
-
-<!-- Connect -->
-## 🤝 Connect With Me
-<div align="center">
-
-<a href="mailto:slssaishankar@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/shankar-sai-n-b92729362"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>
-<img src="https://img.shields.io/badge/Discord-shankarsain__19409-1e293b?style=for-the-badge&logo=discord&logoColor=93c5fd" alt="Discord" />
+![](https://komarev.com/ghpvc/?username=shankarsai000&style=for-the-badge&color=blue)
 
 </div>
 
 ---
 
-<!-- Footer -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=shankarsai000&style=for-the-badge&color=0ea5e9" alt="Profile Views" />
+### ⭐ Thanks for visiting my profile!
 
-**AI Engineer • Researcher • Open Source Enthusiast**  
-_Building intelligent systems with security, purpose, and long-term impact._
+*"Building AI that creates real-world impact through engineering, research, and innovation."*
 
 </div>
