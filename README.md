@@ -4,16 +4,16 @@
    Author : Shankar Sai N
    Theme  : AI Engineering • Research • Cybersecurity
    Version: 2.0
-=========================================================== -->
+ =========================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1220,50:111827,100:0F172A&text=Shankar%20Sai%20N&fontSize=48&fontColor=E5E7EB&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20•%20Researcher%20•%20Datascince&descAlignY=56" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1220,50:111827,100:0F172A&text=Shankar%20Sai%20N&fontSize=48&fontColor=E5E7EB&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20Researcher%20%7C%20Cybersecurity"/>
 
 <br>
 
 <img
-src="https://raw.githubusercontent.com/shankarsai000/shankarsai000/main/WhatsApp%20Image%202026-07-22%20at%2012.32.23%20PM.jpeg"
+src="https://raw.githubusercontent.com/shankarsai000/shankarsai000/main/image.png"
 width="280"
 alt="Shankar Sai N"
 />
@@ -36,7 +36,7 @@ alt="Shankar Sai N"
 
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Engineering+AI+That+Solves+Real+Problems;Building+Autonomous+AI+Systems;Research+Driven+Development;Hackathons+%7C+Open+Source+%7C+Innovation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Engineering+AI+That+Solves+Real+Problems;Building+Autonomous+AI+Systems;Researching+Secure+AI+At+The+Edge;Designing+Intelligent+Automation;Building+Responsible+AI+Products"/>
 
 </div>
 
@@ -199,8 +199,6 @@ My long-term goal is to contribute to world-class AI research while building pro
 ---
 
 ---
-
-
 
 ---
 
